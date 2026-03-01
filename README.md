@@ -1,4 +1,6 @@
-#GRUPO_C INTEGRANTES 
+#GRUPO_C 
+
+INTEGRANTES 
 
 Leidy Dayana Avendaño Moreno
 
